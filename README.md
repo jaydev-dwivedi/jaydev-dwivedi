@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">A Web developer in training, eager to apply skills and knowledge to real-world projects. Dedicated to building websites that are both functional and aesthetically pleasing.</p>
+<p align="left">A passionate computer engineer, eager to apply skills and knowledge to real-world projects. Dedicated to building websites that are both functional and aesthetically pleasing.</p>
 
 ###
 
