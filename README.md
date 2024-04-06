@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">📒 I'm currently learning Web Development<br>🎯 Goals: To become a skilled computer engineer</p>
+<p align="left">📒 Currently exploring Web Development<br>🎯 Goal: To become a skilled Computer Engineer<br>📃 I write blogs on <a href="https://medium.com/@jaydevdwivedi">medium</a></p>
 
 ###
 
