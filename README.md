@@ -2,15 +2,6 @@
 
 <h1 align="left">Hello!<br>This is Jaydev Dwivedi</h1>
 
-###
-
-<p align="left">A passionate computer engineer, eager to apply skills and knowledge to real-world projects. Dedicated to building websites that are both functional and aesthetically pleasing.</p>
-
-###
-
-<br clear="both">
-
-<div align="left">
   <a href="mailto://jaydevdwd@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="37" height="25" alt="gmail logo"  />
   </a>
@@ -20,7 +11,11 @@
   <a href="https://twitter.com/JaydevDwivedi" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
   </a>
-</div>
+
+
+###
+
+<p align="left">A passionate computer engineer, eager to apply skills and knowledge to real-world projects. Dedicated to building websites that are both functional and aesthetically pleasing.</p>
 
 ###
 
