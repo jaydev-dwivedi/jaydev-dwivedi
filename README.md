@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">📒 Currently exploring Web Development<br>🎯 Goal: To become a skilled Computer Engineer<br>📃 I write blogs on <a href="https://medium.com/@jaydevdwivedi">medium</a></p>
+<p align="left">📒 Currently exploring Web Development<br>🎯 Goal: To become a skilled Computer Engineer</p>
 
 ###
 
