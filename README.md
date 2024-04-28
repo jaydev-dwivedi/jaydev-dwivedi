@@ -5,6 +5,10 @@
 ###
 
 <p align="left">A Web developer in training, eager to apply skills and knowledge to real-world projects. Dedicated to building websites that are both functional and aesthetically pleasing.</p>
+<h3 align="left">
+<a href="https://leetcode.com/u/jaydevdwivedi/">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="20" alt="..." /> jaydevdwivedi</a>
+</h3>
 
 ###
 
@@ -12,7 +16,7 @@
 
 ###
 
-<p align="left">🎯 Goals: To become a skilled computer engineer<br>📒 I'm currently exploring Web Development</p>
+<p align="left">🎯 Goals: To become a skilled Computer Engineer<br>📒 Currently exploring Web Development</p>
 
 ###
 
@@ -51,18 +55,6 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
 </div>
-
-###
-
-<h2 align="left">I Do Practice On</h2>
-
-###
-
-<p align="left">
-    <a href="https://leetcode.com/u/jaydevdwivedi/">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35" alt="..." /></a>
-  
-</p>
 
 ###
 
