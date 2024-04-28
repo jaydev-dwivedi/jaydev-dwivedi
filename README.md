@@ -60,9 +60,8 @@
 
 <p align="left">
     <a href="https://leetcode.com/u/jaydevdwivedi/">
-        <img src="leetcode.png" width="10" alt="LeetCode" />
-    </a>
-  LeetCode
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="35" alt="..." /></a>
+  
 </p>
 
 ###
