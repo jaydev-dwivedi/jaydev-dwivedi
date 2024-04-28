@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">A passionate computer engineer, eager to apply skills and knowledge to real-world projects. Dedicated to building websites that are both functional and aesthetically pleasing.</p>
+<p align="left">A Web developer in training, eager to apply skills and knowledge to real-world projects. Dedicated to building websites that are both functional and aesthetically pleasing.</p>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">📒 Currently exploring Web Development<br>🎯 Goal: To become a skilled Computer Engineer</p>
+<p align="left">🎯 Goals: To become a skilled computer engineer<br>📒 I'm currently exploring Web Development</p>
 
 ###
 
@@ -51,6 +51,19 @@
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
 </div>
+
+###
+
+<h2 align="left">I Do Practice On</h2>
+
+###
+
+<p align="left">
+    <a href="https://leetcode.com/u/jaydevdwivedi/">
+        <img src="leetcode.png" width="10" alt="LeetCode" />
+    </a>
+  LeetCode
+</p>
 
 ###
 
