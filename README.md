@@ -4,7 +4,7 @@
 
 ###
 
-<p align="left">A Web developer in training, eager to apply skills and knowledge to real-world projects. Dedicated to building websites that are both functional and aesthetically pleasing.</p>
+<p align="left">A passionate <b>Computer Engineer</b> with a love for technology and innovation.<br>I'm constantly seeking opportunities to learn and grow, and I'm excited to contribute my skills to meaningful projects.<br>Let's connect and build something awesome together!</p>
 <h3 align="left">
 <a href="https://leetcode.com/u/jaydevdwivedi/">
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="20" alt="..." /> jaydevdwivedi</a>
