@@ -1,30 +1,17 @@
-<br clear="both">
+<br>
 
-<h1 align="left">Hello!<br>This is Jaydev Dwivedi</h1>
+# Hello! <br> This is Jaydev Dwivedi
 
-###
+A passionate **Computer Engineer** with a love for technology and innovation.<br>I'm constantly seeking opportunities to learn and grow, and I'm excited to contribute my skills to meaningful projects.<br>Let's connect and build something awesome together!
 
-<p align="left">A passionate <b>Computer Engineer</b> with a love for technology and innovation.<br>I'm constantly seeking opportunities to learn and grow, and I'm excited to contribute my skills to meaningful projects.<br>Let's connect and build something awesome together!</p>
-<h3 align="left">
-<a href="https://leetcode.com/u/jaydevdwivedi/">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="20" alt="..." /> jaydevdwivedi</a>
-</h3>
+### <a href="https://leetcode.com/u/jaydevdwivedi/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="20" alt="..." /> &nbsp; jaydevdwivedi</a>
 
-###
+## About me
 
-<h2 align="left">About me</h2>
+🎯 **Goal**: To become a skilled Computer Engineer <br>
+📒 **Exploring** Web Development <br>
 
-###
-
-<p align="left">🎯 Goals: To become a skilled Computer Engineer<br>📒 Currently exploring Web Development</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
-
-<br clear="both">
+## I code with
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
@@ -40,11 +27,7 @@
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
 </div>
 
-###
-
-<h2 align="left">Technologies</h2>
-
-###
+## Technologies
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
