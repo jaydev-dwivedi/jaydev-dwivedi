@@ -2,14 +2,22 @@
 
 # Hello! <br> This is Jaydev Dwivedi
 
-A passionate **Computer Engineer** with a love for technology and innovation.<br>I'm constantly seeking opportunities to learn and grow, and I'm excited to contribute my skills to meaningful projects.<br>Let's connect and build something awesome together!
+I'm constantly seeking opportunities to learn and grow, and I'm excited to contribute my skills to meaningful projects.<br>
+Let's connect and build something awesome together!
 
-### <a href="https://leetcode.com/u/jaydevdwivedi/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="16" width="18" alt="leetcode">&nbsp; jaydevdwivedi</a>
+### <a href="https://leetcode.com/u/jaydevdwivedi/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="20" width="33" alt="leetcode">&nbsp; jaydevdwivedi</a>
+
+### <a href="https://www.linkedin.com/in/jaydevdwivedi/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="33" height="20" alt="linkedin"/>&nbsp; jaydevdwivedi</a>
+
+### <a href="https://x.com/JaydevDwivedi" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="33" height="20" alt="twitter"/>&nbsp; JaydevDwivedi</a>
+
+### <a href="mailto://jaydevdwd@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="33" height="20" alt="gmail"/>&nbsp; jaydevdwd@gmail.com</a>
 
 ## About me
 
 🎯 **Goal**: To become a skilled Computer Engineer <br>
 📒 **Exploring** Web Development <br>
+
 
 ## I code with
 
