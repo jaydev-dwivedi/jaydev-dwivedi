@@ -16,7 +16,7 @@ Let's connect and build something awesome together!
 ## About me
 
 🎓 **Pursuing** Bachelors in Computer Engineering <br>
-🎯 **Goal** is to become the best programmer <br>
+🎯 **Goal** is to become a good problem-solver <br>
 📒 **Exploring** Web Development
 
 ## I code with
