@@ -4,7 +4,7 @@
 
 A passionate **Computer Engineer** with a love for technology and innovation.<br>I'm constantly seeking opportunities to learn and grow, and I'm excited to contribute my skills to meaningful projects.<br>Let's connect and build something awesome together!
 
-### <a href="https://leetcode.com/u/jaydevdwivedi/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="20" alt="..." /> &nbsp; jaydevdwivedi</a>
+### <a href="https://leetcode.com/u/jaydevdwivedi/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="16" width="18" alt="leetcode">&nbsp; jaydevdwivedi</a>
 
 ## About me
 
@@ -27,6 +27,14 @@ A passionate **Computer Engineer** with a love for technology and innovation.<br
   <img src="https://skillicons.dev/icons?i=bootstrap" height="50" alt="bootstrap logo"  />
 </div>
 
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydev-dwivedi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
 ## Technologies
 
 <div align="left">
@@ -38,16 +46,5 @@ A passionate **Computer Engineer** with a love for technology and innovation.<br
   <img width="10" />
   <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
 </div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaydev-dwivedi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jaydev-dwivedi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="left" src="https://profile-counter.glitch.me/jaydev-dwivedi/count.svg?"  />
 
 ###
