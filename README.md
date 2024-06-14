@@ -2,22 +2,23 @@
 
 # Hello!
 
-I'm constantly seeking opportunities to learn and grow, and I'm excited to contribute my skills to meaningful projects.<br>
-Let's connect and build something awesome together!
+### Myself *Jaydev Dwivedi*
+<h4> I'm constantly seeking opportunities to learn and grow, and I'm excited to contribute my skills to meaningful projects.<br>
+Let's connect and build something awesome together!</h4>
 
-### <a href="https://leetcode.com/u/jaydevdwivedi/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="20" width="33" alt="leetcode">&nbsp; @jaydevdwivedi</a>
+<h4><a href="https://leetcode.com/u/jaydevdwivedi/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="20" width="33" alt="leetcode">&nbsp; @jaydevdwivedi </a></h4>
 
-### <a href="https://www.linkedin.com/in/jaydevdwivedi/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="33" height="20" alt="linkedin"/>&nbsp; @jaydevdwivedi</a>
+<h4><a href="https://www.linkedin.com/in/jaydevdwivedi/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="33" height="20" alt="linkedin"/>&nbsp; @jaydevdwivedi</a></h4>
 
-### <a href="https://x.com/JaydevDwivedi" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="33" height="20" alt="twitter"/>&nbsp; @JaydevDwivedi</a>
-
-### <a href="mailto://jaydevdwd@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="33" height="20" alt="gmail"/>&nbsp; jaydevdwd@gmail.com</a><br><br>
+<h4><a href="https://x.com/JaydevDwivedi" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="33" height="20" alt="twitter"/>&nbsp; @JaydevDwivedi</a></h4> <br>
 
 ## About me
 
-🎓 **Pursuing** Bachelors in Computer Engineering <br>
-🎯 **Goal** is to become a good problem-solver <br>
-📒 **Exploring** Web Development
+#### 🎓 *Pursuing...* Bachelors in Computer Engineering
+#### 🎯 *Goal...* is to become a good problem-solver
+#### 📒 *Exploring...* Web Development
+#### 📧 *Email Address:* jaydevdwd@gmail.com
+<br>
 
 ## I code with
 
@@ -42,6 +43,8 @@ Let's connect and build something awesome together!
 </div>
 
 ###
+
+<br>
 
 ## Technologies
 
