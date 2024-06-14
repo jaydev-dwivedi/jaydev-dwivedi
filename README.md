@@ -10,7 +10,7 @@ Let's connect and build something awesome together!</h4>
 
 <h4><a href="https://www.linkedin.com/in/jaydevdwivedi/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="33" height="20" alt="linkedin"/>&nbsp; @jaydevdwivedi</a></h4>
 
-<h4><a href="https://x.com/JaydevDwivedi" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="33" height="20" alt="twitter"/>&nbsp; @JaydevDwivedi</a></h4> <br>
+<h4><a href="https://x.com/JaydevDwivedi" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="33" height="20" alt="twitter"/>&nbsp; @JaydevDwivedi</a></h4>
 
 ## About me
 
@@ -18,7 +18,6 @@ Let's connect and build something awesome together!</h4>
 #### 🎯 *Goal...* is to become a good problem-solver
 #### 📒 *Exploring...* Web Development
 #### 📧 *Email Address:* jaydevdwd@gmail.com
-<br>
 
 ## I code with
 
@@ -43,8 +42,6 @@ Let's connect and build something awesome together!</h4>
 </div>
 
 ###
-
-<br>
 
 ## Technologies
 
