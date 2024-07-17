@@ -1,10 +1,10 @@
 <br>
 
 # Hello!
-
-### Myself *Jaydev Dwivedi*
-<h4> I'm constantly seeking opportunities to learn and grow, and I'm excited to contribute my skills to meaningful projects.<br>
-Let's connect and build something awesome together!</h4>
+<h3>Myself<ins><i>Jaydev Dwivedi</i><ins></h3>
+  
+### I'm constantly seeking opportunities to learn and grow, <br> and I'm excited to contribute my skills to meaningful projects.
+<h4>Let's connect and build something awesome together!</h4>
 
 <h4><a href="https://leetcode.com/u/jaydevdwivedi/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="20" width="33" alt="leetcode">&nbsp; @jaydevdwivedi </a></h4>
 
@@ -14,10 +14,13 @@ Let's connect and build something awesome together!</h4>
 
 ## About me
 
-#### 🎓 *Pursuing...* Bachelors in Computer Engineering
-#### 🎯 *Goal...* is to become a good problem-solver
-#### 📒 *Exploring...* Web Development
-#### 📧 *Email Address:* jaydevdwd@gmail.com
+*pursuing*  🎓 **Bachelors in Computer Engineering** <br>
+
+*goal..........* 🎯 **is to become a good problem-solver** <br>
+
+*exploring* 📒 **Web Development** <br>
+
+*email.......* 📧 **jaydevdwd@gmail.com** <br>
 
 ## I code with
 
