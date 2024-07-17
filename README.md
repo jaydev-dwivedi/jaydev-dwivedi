@@ -1,8 +1,8 @@
 <br>
 
 # Hello!
-<h3>Myself - <ins><i>Jaydev Dwivedi</i></ins></h3>
-<h4>I'm constantly seeking opportunities to learn and grow, <br> and I'm excited to contribute my skills to meaningful projects.</h4>
+<h3>Myself - <ins><i>Jaydev Dwivedi</i></ins><br>
+I'm constantly seeking opportunities to learn and grow, and I'm excited to contribute my skills to meaningful projects.</h3>
 Let's connect and build something awesome together!
 
 <h4><a href="https://leetcode.com/u/jaydevdwivedi/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="20" width="33" alt="leetcode">&nbsp; @jaydevdwivedi </a></h4>
