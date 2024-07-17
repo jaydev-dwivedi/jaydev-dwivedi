@@ -1,10 +1,9 @@
 <br>
 
 # Hello!
-<h3>Myself<ins><i>Jaydev Dwivedi</i><ins></h3>
-  
-### I'm constantly seeking opportunities to learn and grow, <br> and I'm excited to contribute my skills to meaningful projects.
-<h4>Let's connect and build something awesome together!</h4>
+<h3>Myself - <ins><i>Jaydev Dwivedi</i></ins></h3>
+<h4>I'm constantly seeking opportunities to learn and grow, <br> and I'm excited to contribute my skills to meaningful projects.</h4>
+Let's connect and build something awesome together!
 
 <h4><a href="https://leetcode.com/u/jaydevdwivedi/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="20" width="33" alt="leetcode">&nbsp; @jaydevdwivedi </a></h4>
 
@@ -12,7 +11,7 @@
 
 <h4><a href="https://x.com/JaydevDwivedi" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="33" height="20" alt="twitter"/>&nbsp; @JaydevDwivedi</a></h4>
 
-## About me
+## About Me
 
 *pursuing*  🎓 **Bachelors in Computer Engineering** <br>
 
@@ -22,7 +21,7 @@
 
 *email.......* 📧 **jaydevdwd@gmail.com** <br>
 
-## I code with
+## **I Code With**
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
